@@ -14,7 +14,7 @@ class ResultsPage extends StatelessWidget {
         children: <Widget>[
           Expanded(
               child: Container(
-            child: Text('yourour',
+            child: Text(' more text here!',
             style: kTitleTextStyle,
             ),
           )),
